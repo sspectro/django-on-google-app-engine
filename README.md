@@ -3,6 +3,9 @@
 > 
 >>Projeto desenvolvido no curso de  `Mark Winterbottom` - Udemy [Deploy a Serverless Django app on Google App Engine](https://www.udemy.com/course/serverless/learn/lecture/27345722#overview)
 
+## Status
+In development
+
 ## Ambiente de Desenvolvimento
 Linux, Docker
 ## Desenvolvimento:
